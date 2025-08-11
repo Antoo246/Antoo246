@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/87477585?v=4" width="160" style="border-radius:50%; border:3px solid #fff; margin-bottom:15px; box-shadow: 0 6px 20px rgba(0,0,0,0.2);" alt="Profile Picture">
+<img src="https://avatars.githubusercontent.com/u/141929768?s=400&u=4a7ab52f0284f7c8d15724b222f664ab2797f2c2&v=4" width="160" style="border-radius:50%; border:3px solid #fff; margin-bottom:15px; box-shadow: 0 6px 20px rgba(0,0,0,0.2);" alt="Profile Picture">
 
 <h2>💫 About Me</h2>
 <p style="line-height:1.65; font-size:1.05em; max-width: 700px; margin-left: auto; margin-right: auto;">
