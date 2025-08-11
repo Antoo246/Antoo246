@@ -12,7 +12,7 @@
 
 <h2>🔗 My Site</h2>
 <p style="font-size:1.1em;">
-    <a href="https://anto426.github.io/Antosite/" target="_blank" style="color:#871b4d; text-decoration:none; font-weight:bold; display: inline-block; padding: 8px 15px; border-radius: 8px; transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <a href="https://Antoo246.github.io/Antosite/" target="_blank" style="color:#871b4d; text-decoration:none; font-weight:bold; display: inline-block; padding: 8px 15px; border-radius: 8px; transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
         🚀 Visita il mio sito personale
     </a>
 </p>
@@ -51,11 +51,11 @@
 <hr style="width:70%; border: none; border-top: 1.5px solid #dfe4ea; margin: 35px auto;">
 
 <h2>🔍 Visitors</h2>
-<img src="https://count.getloli.com/get/@:anto426?theme=rule34" alt="Visitor count" style="margin-bottom:10px; border-radius:8px;">
+<img src="https://count.getloli.com/get/@:Antoo246?theme=rule34" alt="Visitor count" style="margin-bottom:10px; border-radius:8px;">
 
 <hr style="width:70%; border: none; border-top: 1.5px solid #dfe4ea; margin: 35px auto;">
 
 <h2>📊 GitHub Stats</h2>
-<img src="https://gh-readme-profile.vercel.app/api?username=Anto426&theme=transparent&border_width=0&border_radius=20&bg_color=cdb698&title_color=871b4d&icon_color=871b4d" alt="GitHub Stats" style="margin-top:10px; border-radius:20px;">
+<img src="https://gh-readme-profile.vercel.app/api?username=Antoo246&theme=transparent&border_width=0&border_radius=20&bg_color=cdb698&title_color=871b4d&icon_color=871b4d" alt="GitHub Stats" style="margin-top:10px; border-radius:20px;">
 
 </div>
